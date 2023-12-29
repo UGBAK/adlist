@@ -1,6 +1,4 @@
-|#Whatsapp media block
-
-
+#Whatsapp media block
 0.0.0.0 media-akl1-1.cdn.whatsapp.net
 0.0.0.0 media-ams3-1.cdn.whatsapp.net
 0.0.0.0 media-ams4-1.cdn.whatsapp.net
