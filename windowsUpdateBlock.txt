@@ -997,7 +997,7 @@ apps.skype.com
 appsforoffice.microsoft.com
 appsforoffice.microsoft.com.edgekey.net
 apresolve.spotify.com
-# arc.msn.com
+arc.msn.com
 arc.msn.com.nsatc.net
 arc.msn.com-nsatc.net
 arc.trafficmanager.net
